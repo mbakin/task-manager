@@ -47,8 +47,17 @@ export default function Home() {
           </nav>
         </div>
 
-
-        <div className="flex-1 min-w-0">Main Content</div>
+        <div className="flex-1 min-w-0">
+          <header className="flex flex-col border-b border-gray-200 px-8">
+            <div>
+              Header Top
+            </div>
+            <div>
+              Header Bottom
+            </div>
+          </header>
+          <div>Tasks</div>
+        </div>
     </div>
   )
 }
