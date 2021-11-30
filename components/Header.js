@@ -57,7 +57,7 @@ export default function Header() {
             Complete Sprint
           </button>
         </div>
-        <div className="bg-gradient-to-r from-pink-400 to-indigo-800 text-white text-sm rounded-md font-extrabold px-4 pl-4 pr-4 pt-1 pb-1 mx-3 hover:bg-gradient-to-r hover:from-pink-500 hover:to-indigo-700 duration-700">
+        <div className="bg-red-300  text-white text-sm rounded-md font-extrabold px-4 pl-4 pr-4 pt-1 pb-1 mx-3 hover:bg-yellow-50 hover:text-gray-800 duration-700">
           <button>
             New Item
           </button>
