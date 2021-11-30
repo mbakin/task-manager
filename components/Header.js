@@ -1,4 +1,4 @@
-import Tasks from "./Tasks"
+import Tasks from "../components/Tasks/Tasks"
 
 export default function Header() {
   return (
