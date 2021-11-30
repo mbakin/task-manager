@@ -1,3 +1,5 @@
+import Tasks from "./Tasks"
+
 export default function Header() {
   return (
     <div className="flex-1 min-w-0">
@@ -62,6 +64,7 @@ export default function Header() {
         </div>
       </div>
     </header>
+    <Tasks />
   </div>
   )
 }
