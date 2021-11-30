@@ -13,8 +13,8 @@ export default function Completed() {
         >
           <div>
             <div className="flex items-baseline justify-between">
-              <div className="px-3 py-1 bg-blue-200 rounded">
-                <span className="text-sm font-medium text-blue-500 leading-tight uppercase">
+              <div className="px-3 py-1 bg-green-200 rounded">
+                <span className="text-sm font-medium text-green-500 leading-tight uppercase">
                   Design
                 </span>
               </div>
