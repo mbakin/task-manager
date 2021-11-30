@@ -7,7 +7,7 @@ import Testing from "./Task/Testing";
 export default function Tasks() {
   return (
     <div className="bg-gray-50 h-full flex-1 overflow-auto">
-      <main className="p-3 h-full inline-flex space-x-2">
+      <main className="p-3 h-full inline-flex space-x-2 overflow-hidden">
         <Todos />
         <InProgress />
         <Testing />
