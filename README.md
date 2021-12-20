@@ -9,7 +9,7 @@ This project is a kanban design using Next.js and Tailwind CSS. The project does
 - [Demo](https://task-manager-mbakin.vercel.app/)
 
   
-## Kullanılan Teknolojiler
+## Tech Stack
 
 -   [Next.js](https://nextjs.org/)
 -   [Tailwind CSS](https://tailwindcss.com)
